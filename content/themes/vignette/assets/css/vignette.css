@@ -94,6 +94,8 @@ h1.title {
     line-height: 75px;
 	margin: 0;
 	letter-spacing: -2px;
+	text-shadow: #000 0 0 1px;
+
 }
 
 h2 {
