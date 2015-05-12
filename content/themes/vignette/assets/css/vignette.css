@@ -148,6 +148,7 @@ p {
     -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
     -moz-column-gap: 30px; /* Firefox */
     column-gap: 30px;
+    text-shadow: #000 0 0 1px;
 }
 
 .meta {
