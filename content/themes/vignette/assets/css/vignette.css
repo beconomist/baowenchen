@@ -294,3 +294,9 @@ footer a:hover {
 		padding-bottom: 30px;
 	}
 }
+
+@media (max-width: 321px){
+	.author .info {
+		width: 260px;
+	}
+}
