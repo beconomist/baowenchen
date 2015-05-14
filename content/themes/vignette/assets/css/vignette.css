@@ -47,7 +47,7 @@ article, .article-blur {
 
 section {
 	padding-top: 250px;
-	padding-bottom: 200px;
+	padding-bottom: 30px;
 	background-size: cover; 
 }
 
@@ -111,8 +111,8 @@ h2.caption {
 	line-height: 25px;
 	margin: 10px 0 80px 0;
 	letter-spacing: -0.5px;
-	color: #fff;
-	text-shadow: 1px 1px rgba(0,0,0,0.2);
+	/*color: #fff;*/
+	/*text-shadow: 1px 1px rgba(0,0,0,0.2);*/
 }
 
 article h2.caption {
@@ -249,10 +249,6 @@ footer a {
 footer a:hover {
 	color: #262946;
 	opacity: 1;
-}
-
-.home-template section.wrapper {
-	color: #fff;
 }
 
 @media (max-width: 850px) {
