@@ -196,6 +196,7 @@ p {
 .author-bao h1.title + h2.caption {
 	font-size: 16px;
 	font-style: normal;
+	color: #fff;
 }
 
 .share {
